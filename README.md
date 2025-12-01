@@ -118,8 +118,6 @@ __Output_:
 <img width="1917" height="1041" alt="image" src="https://github.com/user-attachments/assets/bab73ab1-0e7a-4897-9c47-6454c658b4f1" />
 <img width="1917" height="1105" alt="image" src="https://github.com/user-attachments/assets/289715d0-7988-405d-8900-c3dbc1b9b9d9" />
 
-![WhatsApp Image 2025-11-20 at 23 07 06_0b1a1678](https://github.com/user-attachments/assets/874b1d92-770b-4e31-9a82-27bf53b22a38)
-
 
 __Result__:
 Thus, the maximum range of a radar system calculated using the Radar Range Equation is successfully verified using Scilab programming.
